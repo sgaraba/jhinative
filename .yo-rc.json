@@ -1,0 +1,48 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "jhinative",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-native",
+        "version": "2.3.0"
+      }
+    ],
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "angular",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1719574647340,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "devServerPort": 4200,
+    "enableHibernateCache": false,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.6.0",
+    "jwtSecretKey": "NzQwYjI5OTNmZDM4N2VjNmFlNDhkMzkwYWMyNGE2MTJiYmIxNjIzN2I4ODY2MjBkMWNmZGI2Nzg4ZTRmYzQwZTNjZDBjMDdhYjM1Y2U0MDQ4YjI5MmEwMjJiNDBmM2NhYjYwNDBkOWI2NzMxZjhjNGQ3ZjFkNjg0ZGU4NzQ2Mjg=",
+    "languages": ["ro", "en", "ru"],
+    "messageBroker": false,
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "ro",
+    "packageName": "com.esempla.jhinative",
+    "prodDatabaseType": "postgresql",
+    "reactive": false,
+    "searchEngine": false,
+    "serverPort": null,
+    "serverSideOptions": [],
+    "serviceDiscoveryType": false,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "websocket": false,
+    "withAdminUi": true
+  },
+  "generator-jhipster-native": {
+    "version": "2.3.0"
+  }
+}
